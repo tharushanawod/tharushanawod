@@ -66,7 +66,7 @@ const tharusha = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharushanawod&hide=activity=true&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
+
 
 
 
