@@ -18,9 +18,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Science Student** at University of Colombo School of Computing  
+🎓 Undergraduate Student at University of Colombo School of Computing  
 🔥 **Full-Stack Developer** passionate about creating innovative solutions  
-🌟 Currently pursuing **BSc. in Information Systems (Hons)** with a **3.79 GPA**  
+🌟 Currently pursuing **BSc. in Information Systems (Hons)**
 🌍 Based in **Medawachchiya, Sri Lanka** | **Open to Remote Work**  
 📚 **Experience Level:** Intern, eager to learn and grow  
 
